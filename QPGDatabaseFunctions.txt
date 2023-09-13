@@ -178,7 +178,7 @@ return P;
 end; 
 #################################
 ListOfEquivalentQPGArrays:=function(b)
-local r,k,i,L,G,g,p,b1,K,A;
+local r,k,i,j,L,G,g,p,b1,K,A;
 
 r:=Length(b); 
 k:=[]; 
